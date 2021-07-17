@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BookList-app/static/css/main.9fc20574.chunk.css",
-    "main.js": "/BookList-app/static/js/main.64e75aae.chunk.js",
-    "main.js.map": "/BookList-app/static/js/main.64e75aae.chunk.js.map",
+    "main.js": "/BookList-app/static/js/main.1545ce9c.chunk.js",
+    "main.js.map": "/BookList-app/static/js/main.1545ce9c.chunk.js.map",
     "runtime-main.js": "/BookList-app/static/js/runtime-main.1a59667d.js",
     "runtime-main.js.map": "/BookList-app/static/js/runtime-main.1a59667d.js.map",
     "static/js/2.3c8d9e8e.chunk.js": "/BookList-app/static/js/2.3c8d9e8e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1a59667d.js",
     "static/js/2.3c8d9e8e.chunk.js",
     "static/css/main.9fc20574.chunk.css",
-    "static/js/main.64e75aae.chunk.js"
+    "static/js/main.1545ce9c.chunk.js"
   ]
 }
